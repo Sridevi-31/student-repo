@@ -1,4 +1,0 @@
-Name: sri 
-Course: BSC Air
-Section:1
-College: Aditya degree college
